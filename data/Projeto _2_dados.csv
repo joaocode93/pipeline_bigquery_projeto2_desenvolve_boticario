@@ -1,0 +1,7 @@
+﻿id_venda;nome_cliente;email_cliente;estado_cliente;nome_produto;categoria_produto;preco_produto;data_venda;quantidade
+1;Ana Silva;ana.s@email.com;SP;Fundamentos de SQL;Dados;60.00;15/01/2024;1
+2;Bruno Costa;b.costa@email.com;RJ;Duna;Ficção Científica;80.50;18/01/2024;1
+3;Carla Dias;carla.d@email.com;SP;Python para Dados;Programação;75.00;02/02/2024;2
+4;Ana Silva;ana.s@email.com;SP;Duna;Ficção Científica;80.50;10/02/2024;1
+5;Daniel Souza;daniel.s@email.com;MG;Fundamentos de SQL;Dados;60.00;20/02/2024;1
+6;Bruno Costa;b.costa@email.com;RJ;O Guia do Mochileiro;Ficção Científica;42.00;05/03/2024;1
