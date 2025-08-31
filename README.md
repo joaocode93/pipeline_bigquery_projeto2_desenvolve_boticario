@@ -133,11 +133,6 @@ WHERE Estado_Cliente = 'RJ';
 - **Vantagem de usar VIEW:** padroniza a lógica, reduz duplicação e risco de erro, facilita reuso e controle de acesso; sempre reflete os dados **atuais**.
 - **Se o preço mudar, a VIEW atualiza o `Valor_Total`?** Sim: a VIEW é materialização lógica da consulta; ao consultar novamente, trará o preço vigente na tabela **Produtos** naquele momento (a menos que você use *snapshots* ou tabelas historizadas de preço).
 
-## ✅ Dicas de entrega (GitHub)
-- Confirme o `project.dataset` antes de subir.
-- Inclua um print da VIEW ou resultado da consulta no PR.
-- Escreva um resumo no README do que você aprendeu.
-
 ---
 
 Feito com 💙 para a Livraria DevSaber.
